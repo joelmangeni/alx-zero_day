@@ -1,7 +1,2 @@
 #!/bin/bash
-ALXroot@f6fc1ee8d364:~/alx-zero_day/0x03-git/bash# cat alx
-ALXroot@f6fc1ee8d364:~/alx-zero_day/0x03-git/bash# clear
-clear
-ALXroot@f6fc1ee8d364:~/alx-zero_day/0x03-git/bash# cat > school
-#!/bin/bash
-schoolroot@f6fc1ee8d364:~/alx-zero_day/0x03-git/bash# ls
+ALX school is so cool!
